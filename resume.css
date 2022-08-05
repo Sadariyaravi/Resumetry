@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-container{
+    width: 700px;
+    height: 900px;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 10px 10px;
+}
+
+.main-container h2{
+    text-align: center;
+}
+
+.car-obj{
+    height: 20px;
+    background-color: rgb(196, 193, 193);
+    border: 1px solid black;
+}
+
+p{
+    font-size: 13px;
+}
